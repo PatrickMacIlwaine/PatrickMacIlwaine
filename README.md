@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PatrickMacIlwaine
-- 👀 I’m interested in audio, statistics, 
-- 🌱 I’m currently learning web scraping. 
+- 🌱 I am a Computer Science Student at Belmont University
 - 📫 How to reach me : Email : patrick@macilwaine.com
 
 <!---
